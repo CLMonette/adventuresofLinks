@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Adventures of Link</title>
+  </head>
+  <body>
+    <h1>Professor Knowsitall</h1>
+    <hr>
+    <p>
+        <h3>&quot;This appears to be an ancient recipe&quot;,says Knowitall.&quot;A recipe for crumbcake.&quot;</h3>
+    <button onclick="./crumbcake.html">Ask about the crumbcake?</button>
+    <button onclick="./strangeLanguage.html">Ask about the strange language?</button>
+    <button onclick="./jelly.html">Ask about the jelly?</button>
+    <p></p>
+    <a href=""></a>
+    <hr>
+    <p><a href="./index.html">Start the story over.</a></p>
+    <p><a href="https://github.com/abbreviatedman/the-adventures-of-link" target="_blank">See the code that powers this app.</a></p>
+  </body>
+</html>

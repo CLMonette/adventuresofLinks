@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Adventures of Link</title>
+  </head>
+  <body>
+    <h1>The letter is written in an archaic language. Some of it seems known to you but the entire message isn't quite clear. Professor Knowsitall may be able to translate this letter.</h1>
+    <hr>
+    <button onclick="./take-the-letter-to-professor">Take the letter to the Professor</button>
+    <button onclick="./tuck-the-letter-in-your-pack">Tuck the letter in your pack and try to decipher on your own later</button>
+    <button onclick="./throw-the-letter-away">Throw the letter away</button>
+    <p></p>
+    <a href=""></a>
+    <hr>
+    <p><a href="./index.html">Start the story over.</a></p>
+    <p><a href="https://github.com/abbreviatedman/the-adventures-of-link" target="_blank">See the code that powers this app.</a></p>
+  </body>
+</html>
