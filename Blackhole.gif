@@ -6,4 +6,6 @@
     <title>BYE BYE</title>
 </head>
 <body>
-    <a> href="https://i.pinimg.com/originals/c1/6a/c5/c16ac59a6c5c221f9dfce2c031000ab5.gif"</a>
+    <img src="https://i.pinimg.com/originals/c1/6a/c5/c16ac59a6c5c221f9dfce2c031000ab5.gif">
+<a href="./index.html" target="_blank">Start over</a>
+</body>
